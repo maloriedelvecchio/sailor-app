@@ -43,12 +43,20 @@ img {
   width: 100%;
 }
 
-.btn {
+.btn-primary {
   background-color: #FB607E;
   border: none;
   width: 100%;
 }
 
-.card {
+.btn-primary:hover, .btn-primary:active {
+  background-color: #e65370;
+}
 
+.btn-primary:active {
+  --bs-btn-active-bg: #cc4a63;
+}
+
+.card {
+  border: 1px solid #FB607E;
 }
