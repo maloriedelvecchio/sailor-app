@@ -1,0 +1,150 @@
+[
+  {
+    "sailorName": "Sailor Moon",
+    "civilianName": "Usagi Tsukino",
+    "nameEtymology": "Rabbit of the Moon",
+    "zodiacSign": "Cancer",
+    "colorsWorn": ["Pink", "White"],
+    "hairStyle": "Long pigtails",
+    "personalityType": "Cheerful and kind-hearted",
+    "abilities": [
+      "Moon Healing Escalation",
+      "Moon Spiral Heart Attack",
+      "Silver Moon Crystal Power Kiss"
+    ],
+    "weapons": [
+      "Moon Crescent Wand",
+      "Cutie Moon Rod",
+      "Spiral Heart Moon Rod"
+    ],
+    "catchphrase": "In the name of the Moon, I will punish you!"
+  },
+  {
+    "sailorName": "Sailor Mercury",
+    "civilianName": "Ami Mizuno",
+    "nameEtymology": "Friend of Water",
+    "zodiacSign": "Virgo",
+    "colorsWorn": ["Blue", "White"],
+    "hairStyle": "Short blue hair",
+    "personalityType": "Intelligent and calm",
+    "abilities": [
+      "Shine Aqua Illusion",
+      "Mercury Aqua Mirage",
+      "Mercury Aqua Rhapsody"
+    ],
+    "weapons": ["Mercury Harp", "Mercury Aqua Mirror"],
+    "catchphrase": "Douse yourself in water and repent!"
+  },
+  {
+    "sailorName": "Sailor Mars",
+    "civilianName": "Rei Hino",
+    "nameEtymology": "Spirit of Fire",
+    "zodiacSign": "Aries",
+    "colorsWorn": ["Red", "Purple"],
+    "hairStyle": "Long black hair",
+    "personalityType": "Passionate and spiritual",
+    "abilities": [
+      "Burning Mandala",
+      "Mars Flame Sniper",
+      "Mars Celestial Fire Surround"
+    ],
+    "weapons": ["Mars Arrow", "Mars Crystal Power"],
+    "catchphrase": "Evil spirit, be exorcised!"
+  },
+  {
+    "sailorName": "Sailor Jupiter",
+    "civilianName": "Makoto Kino",
+    "nameEtymology": "Sincerity of the Wood",
+    "zodiacSign": "Sagittarius",
+    "colorsWorn": ["Green", "Pink"],
+    "hairStyle": "Brown ponytail",
+    "personalityType": "Strong and loyal",
+    "abilities": [
+      "Supreme Thunder",
+      "Jupiter Oak Evolution",
+      "Sparkling Wide Pressure"
+    ],
+    "weapons": ["Jupiter Thunderbolt", "Jupiter Crystal Power"],
+    "catchphrase": "Supreme Thunder, crash down!"
+  },
+  {
+    "sailorName": "Sailor Venus",
+    "civilianName": "Minako Aino",
+    "nameEtymology": "Beautiful Child of Love",
+    "zodiacSign": "Libra",
+    "colorsWorn": ["Yellow", "Orange"],
+    "hairStyle": "Long blonde hair",
+    "personalityType": "Playful and outgoing",
+    "abilities": [
+      "Venus Love and Beauty Shock",
+      "Venus Love-Me Chain",
+      "Crescent Beam"
+    ],
+    "weapons": ["Venus Love-Me Chain", "Rolling Heart Vibration"],
+    "catchphrase": "Venus Power, Make Up!"
+  },
+  {
+    "sailorName": "Sailor Pluto",
+    "civilianName": "Setsuna Meioh",
+    "nameEtymology": "Momentary Dark King",
+    "zodiacSign": "Scorpio",
+    "colorsWorn": ["Dark Purple", "Black"],
+    "hairStyle": "Long green hair",
+    "personalityType": "Mature and mysterious",
+    "abilities": ["Dead Scream", "Chronos Typhoon", "Garnet Orb"],
+    "weapons": ["Garnet Rod", "Time Key"],
+    "catchphrase": "Pluto Planet Power, Make Up!"
+  },
+  {
+    "sailorName": "Sailor Uranus",
+    "civilianName": "Haruka Tenoh",
+    "nameEtymology": "Distant Sky King",
+    "zodiacSign": "Aquarius",
+    "colorsWorn": ["Gold", "Yellow"],
+    "hairStyle": "Short blonde hair",
+    "personalityType": "Independent and charismatic",
+    "abilities": ["World Shaking", "Space Sword Blaster", "Space Turbulence"],
+    "weapons": ["Space Sword", "Uranus Crystal"],
+    "catchphrase": "Uranus Planet Power, Make Up!"
+  },
+  {
+    "sailorName": "Sailor Neptune",
+    "civilianName": "Michiru Kaioh",
+    "nameEtymology": "Full Sea King",
+    "zodiacSign": "Pisces",
+    "colorsWorn": ["Aqua", "Blue"],
+    "hairStyle": "Wavy aqua hair",
+    "personalityType": "Elegant and artistic",
+    "abilities": [
+      "Deep Submerge",
+      "Submarine Reflection",
+      "Neptune Deep Aqua Mirror"
+    ],
+    "weapons": ["Neptune Deep Aqua Mirror", "Neptune Crystal"],
+    "catchphrase": "Neptune Planet Power, Make Up!"
+  },
+  {
+    "sailorName": "Sailor Saturn",
+    "civilianName": "Hotaru Tomoe",
+    "nameEtymology": "Firefly Sprout",
+    "zodiacSign": "Capricorn",
+    "colorsWorn": ["Purple", "Black"],
+    "hairStyle": "Short purple hair",
+    "personalityType": "Mysterious and introverted",
+    "abilities": ["Silence Glaive Surprise", "Death Reborn Revolution"],
+    "weapons": ["Silence Glaive", "Saturn Crystal"],
+    "catchphrase": "Saturn Planet Power, Make Up!"
+  },
+  {
+    "sailorName": "Sailor Chibi Moon",
+    "civilianName": "Chibiusa Tsukino",
+    "nameEtymology": "Small Rabbit of the Moon",
+    "zodiacSign": "Gemini",
+    "colorsWorn": ["Pink", "Red"],
+    "hairStyle": "Pink odango buns",
+    "personalityType": "Curious and mischievous",
+    "abilities": ["Pink Sugar Heart Attack", "Twinkle Yell"],
+    "weapons": ["Luna P", "Pink Moon Stick"],
+    "catchphrase": "Moon Prism Power, Make Up!"
+  }
+]
