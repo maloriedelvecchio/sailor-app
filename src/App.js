@@ -1,4 +1,5 @@
 import './App.css';
+import ListCast from './components/ListCast';
 
 function App() {
   const name = "Sailor Guardians";
@@ -9,13 +10,11 @@ function App() {
           <div className="card-body">
             <h1 className="card-title">Meet the {name}</h1>
             <p className="card-text">
-              The Sailor Guardians are magical girls who are initially presented as
-              super-heroes who use their powers to vanquish the forces of evil.
-              They are each associated with an object in outer space. These
-              celestial bodies include stars, planets, moons, asteroids, and
-              comets among other objects.
+              The Sailor Guardians are magical girls who use their powers to 
+              vanquish the forces of evil.
             </p>
-            <button className="btn btn-primary btn-lg" onClick={()=> alert('Hello')}>Show More</button>
+            <button className="btn btn-primary btn-lg" onClick={()=> alert('Hello')}>Show Details</button>
+            <ListCast />          
           </div>
       </div>
     </div>

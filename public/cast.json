@@ -1,6 +1,8 @@
 [
   {
+    "id": 0,
     "sailorName": "Sailor Moon",
+    "sailorSlug": "s-moon",
     "civilianName": "Usagi Tsukino",
     "nameEtymology": "Rabbit of the Moon",
     "zodiacSign": "Cancer",
@@ -20,7 +22,9 @@
     "catchphrase": "In the name of the Moon, I will punish you!"
   },
   {
+    "id": 1,
     "sailorName": "Sailor Mercury",
+    "sailorSlug": "s-mercury",
     "civilianName": "Ami Mizuno",
     "nameEtymology": "Friend of Water",
     "zodiacSign": "Virgo",
@@ -36,7 +40,9 @@
     "catchphrase": "Douse yourself in water and repent!"
   },
   {
+    "id": 2,
     "sailorName": "Sailor Mars",
+    "sailorSlug": "s-mars",
     "civilianName": "Rei Hino",
     "nameEtymology": "Spirit of Fire",
     "zodiacSign": "Aries",
@@ -52,7 +58,9 @@
     "catchphrase": "Evil spirit, be exorcised!"
   },
   {
+    "id": 3,
     "sailorName": "Sailor Jupiter",
+    "sailorSlug": "s-jupiter",
     "civilianName": "Makoto Kino",
     "nameEtymology": "Sincerity of the Wood",
     "zodiacSign": "Sagittarius",
@@ -68,7 +76,9 @@
     "catchphrase": "Supreme Thunder, crash down!"
   },
   {
+    "id": 4,
     "sailorName": "Sailor Venus",
+    "sailorSlug": "s-venus",
     "civilianName": "Minako Aino",
     "nameEtymology": "Beautiful Child of Love",
     "zodiacSign": "Libra",
@@ -84,7 +94,9 @@
     "catchphrase": "Venus Power, Make Up!"
   },
   {
+    "id": 5,
     "sailorName": "Sailor Pluto",
+    "sailorSlug": "s-pluto",
     "civilianName": "Setsuna Meioh",
     "nameEtymology": "Momentary Dark King",
     "zodiacSign": "Scorpio",
@@ -96,7 +108,9 @@
     "catchphrase": "Pluto Planet Power, Make Up!"
   },
   {
+    "id": 6,
     "sailorName": "Sailor Uranus",
+    "sailorSlug": "s-uranus",
     "civilianName": "Haruka Tenoh",
     "nameEtymology": "Distant Sky King",
     "zodiacSign": "Aquarius",
@@ -108,7 +122,9 @@
     "catchphrase": "Uranus Planet Power, Make Up!"
   },
   {
+    "id": 7,
     "sailorName": "Sailor Neptune",
+    "sailorSlug": "s-neptune",
     "civilianName": "Michiru Kaioh",
     "nameEtymology": "Full Sea King",
     "zodiacSign": "Pisces",
@@ -124,7 +140,9 @@
     "catchphrase": "Neptune Planet Power, Make Up!"
   },
   {
+    "id": 8,
     "sailorName": "Sailor Saturn",
+    "sailorSlug": "s-saturn",
     "civilianName": "Hotaru Tomoe",
     "nameEtymology": "Firefly Sprout",
     "zodiacSign": "Capricorn",
@@ -136,7 +154,9 @@
     "catchphrase": "Saturn Planet Power, Make Up!"
   },
   {
+    "id": 9,
     "sailorName": "Sailor Chibi Moon",
+    "sailorSlug": "s-chibi",
     "civilianName": "Chibiusa Tsukino",
     "nameEtymology": "Small Rabbit of the Moon",
     "zodiacSign": "Gemini",
